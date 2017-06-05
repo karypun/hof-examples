@@ -2,15 +2,11 @@
 const summary = require('hof-behaviour-summary-page');
 
 module.exports = {
-  name: 'component-date',
-  baseUrl: '/component-date',
+  name: 'date-component',
+  baseUrl: '/date-component',
   steps: {
     '/date-of-birth': {
       fields: ['date-of-birth'],
-      next: '/passport-expiry'
-    },
-    '/passport-expiry': {
-      fields: ['passport-expiry'],
       next: '/confirm'
     },
     '/confirm': {

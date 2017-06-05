@@ -6,9 +6,6 @@
     "sections": {
       "date-of-birth": {
         "header": "Date of Birth"
-      },
-      "passport-expiry": {
-        "header": "Passport expiry"
       }
     }
   }

@@ -3,7 +3,7 @@
   "//": "points to the different apps to use",
   "routes": [
     "./apps/summary-page",
-    "./apps/component-date"
+    "./apps/date-component"
   ],
   "session": {
     "name": "hof-example.hof.sid"
