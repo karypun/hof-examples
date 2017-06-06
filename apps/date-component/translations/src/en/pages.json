@@ -1,12 +1,5 @@
 {
   "date-examples": {
     "header": "Date examples"
-  },
-  "confirm": {
-    "sections": {
-      "date-of-birth": {
-        "header": "Date of Birth"
-      }
-    }
   }
 }

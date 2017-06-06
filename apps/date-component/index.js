@@ -1,5 +1,4 @@
 'use strict';
-const summary = require('hof-behaviour-summary-page');
 
 module.exports = {
   name: 'date-component',
@@ -10,7 +9,7 @@ module.exports = {
       next: '/confirm'
     },
     '/confirm': {
-      behaviours: ['complete', summary],
+      behaviours: ['complete'],
       next: '/complete'
     },
     '/complete': {
