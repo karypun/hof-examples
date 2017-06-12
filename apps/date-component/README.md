@@ -29,7 +29,7 @@ Edit the fields option from `['name']` to `['date-of-birth']`. Your steps object
 ```
 Now start your app by running `npm start`. Open http://localhost:8080/date-component in a browser then you should see your app. It should look something like this:
 
-![Date component start page](../../images/date-component-getting-started.png?raw=true)
+![Date component start page](../../images/date-component-get-started.png?raw=true)
 
 ## Adding the Date-component field
 
@@ -65,7 +65,7 @@ module.exports = {
 
 Now start your app by running `npm start`. Open http://localhost:8080/date-component in a browser then you should see your app using the date-component. It should look something like this:
 
-![Date component field](../assets/images/date-component-date-of-birth.png)
+![Date component field](../../images/date-component-date-of-birth-field.png?raw=true)
 
 
 
